@@ -237,5 +237,59 @@
     "id": 22,
     "safe": true,
     "lang": "en"
+},
+    {
+    "error": false,
+    "category": "Programming",
+    "type": "twopart",
+    "setup": "Why are Assembly programmers always soaking wet?",
+    "delivery": "They work below C-level.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 264,
+    "lang": "en"
+},
+    {
+    "error": false,
+    "category": "Programming",
+    "type": "twopart",
+    "setup": "What is a dying programmer's last program?",
+    "delivery": "Goodbye, world!",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "id": 56,
+    "safe": true,
+    "lang": "en"
+},
+    {
+    "error": false,
+    "category": "Programming",
+    "type": "twopart",
+    "setup": "Why is Linux safe?",
+    "delivery": "Hackers peak through Windows only.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": false,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "safe": true,
+    "id": 260,
+    "lang": "en"
 }
 ]
